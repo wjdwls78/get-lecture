@@ -1,4 +1,5 @@
-from turtle import pd
+from turtle import fd, pd
 
 
 improt pandas as pd
+fd
